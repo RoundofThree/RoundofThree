@@ -1,17 +1,22 @@
 ### Hi there 👋
 
-<!--
-**RoundofThree/RoundofThree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
+	- Algorithms implementation of common AI algos (classical search, non-classical search, minimax, CSP, planning (FF, RPG), MDP, supervised learning, unsupervised learning, reinforcement learning)
+	- OS security 
+	- Lysp compiler 
+	- Competitive programming 
+
 - 🌱 I’m currently learning ...
+
+	- C programming 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: zhuoyingjiangli@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 :octocat:
