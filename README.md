@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there :octocat:
+
+![](https://github-readme-stats-rho-mocha.vercel.app/api?username=RoundofThree&show_icons=true&theme=radical&&count_private=true)
+
+![](https://github-readme-stats-rho-mocha.vercel.app/api/top-langs/?username=RoundofThree&layout=compact&hide=html,c,tcl&langs_count=10)
+
+![](https://github-readme-stats-rho-mocha.vercel.app/api/wakatime?username=RoundofThree)
 
 
 - 🔭 I’m currently working on ...
@@ -19,4 +25,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-:octocat:
+
