@@ -16,7 +16,8 @@
 
 - 🌱 I’m currently learning ...
 
-	- C programming 
+	- C programming
+	- Python OpenCV 
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
