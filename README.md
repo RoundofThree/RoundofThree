@@ -31,6 +31,7 @@
 - [Nyxeon](https://github.com/RoundofThree/nyxeon) (Golang Gin + Vue 3 first project) 
 - King's College London Chinese Alumni Association website CMS and online payment (Ruby on Rails)
 - Online health monitoring and scheduling system (Ruby on Rails)
+- King's College London Chinese Student Association WeChat miniprogram
 - Bank scam bait web application (Ruby on Rails) 
 - [Watermark removal (python-scripts)](https://github.com/RoundofThree/python-scripts) (Python OpenCV)
 - [Automated baselining](https://github.com/RoundofThree/automated-baselining) (Batchfile)
@@ -42,4 +43,4 @@
 - Backend development with Golang and Ruby on Rails
 - Competitive programming with C++
 - CTF as a hobby 
-- ACG! yyds 🤟
+- ACG yyds 🤟
