@@ -39,8 +39,8 @@
 
 #### Things I like
 
+- Security research, CTF and boot2root challenges
 - AI algorithms 
 - Backend development with Golang and Ruby on Rails
 - Competitive programming with C++
-- CTF as a hobby 
 - ACG yyds 🤟
