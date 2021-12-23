@@ -40,6 +40,7 @@
 #### Things I like
 
 - Security research, CTF and boot2root challenges
+- Low level systems programming and compilers
 - AI algorithms 
 - Backend development with Golang and Ruby on Rails
 - Competitive programming with C++
