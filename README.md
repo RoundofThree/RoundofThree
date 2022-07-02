@@ -2,7 +2,7 @@
 
 [![Mail](https://img.shields.io/badge/-zhuoyingjiangli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhuoyingjiangli@gmail.com)](mailto:zhuoyingjiangli@gmail.com)
 
-[RoundofThree](https://roundofthree.github.io) is a Computer Science undergraduate who loves to code and read code, especially in Go!
+[RoundofThree](https://roundofthree.github.io) is a Computer Science student who loves playing with new stuff.
 
 ---
 
@@ -21,6 +21,7 @@
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/rust-lang/rust-lang-icon.svg"></code>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoundofThree&layout=compact&hide=html,tcl&langs_count=10&count_private=true)
 
@@ -28,8 +29,9 @@
 
 #### Projects
 
+- Adversarial poisoning attack algorithms against Drebin malware classifier
 - [Nyxeon](https://github.com/RoundofThree/nyxeon) (Golang Gin + Vue 3 first project) 
-- King's College London Chinese Alumni Association website CMS and online payment (Ruby on Rails)
+- King's College London Chinese Alumni Association website CMS (Ruby on Rails)
 - Online health monitoring and scheduling system (Ruby on Rails)
 - King's College London Chinese Student Association WeChat miniprogram
 - Bank scam bait web application (Ruby on Rails) 
@@ -39,9 +41,9 @@
 
 #### Things I like
 
-- Security research, CTF and boot2root challenges
-- Low level systems programming and compilers
-- AI algorithms 
-- Backend development with Golang and Ruby on Rails
+- Security research, pwn, reversing and forensics challenges
+- Systems programming, operating systems
+- Compilers
+- Mathematical optimization and algorithms
 - Competitive programming with C++
 - ACG yyds 🤟
