@@ -21,7 +21,7 @@
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/rust-lang/rust-lang-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoundofThree&layout=compact&hide=html,tcl&langs_count=10&count_private=true)
 
