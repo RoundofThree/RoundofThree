@@ -29,7 +29,7 @@
 
 #### Projects
 
-- Adversarial poisoning attack algorithms against Drebin malware classifier
+- Targeted and targeted backdoor poisoning attacks against Drebin under problem-space derived constraints: request for access
 - [Nyxeon](https://github.com/RoundofThree/nyxeon) (Golang Gin + Vue 3 first project) 
 - King's College London Chinese Alumni Association website CMS (Ruby on Rails)
 - Online health monitoring and scheduling system (Ruby on Rails)
