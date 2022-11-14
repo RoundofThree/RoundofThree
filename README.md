@@ -2,7 +2,7 @@
 
 [![Mail](https://img.shields.io/badge/-zhuoyingjiangli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhuoyingjiangli@gmail.com)](mailto:zhuoyingjiangli@gmail.com)
 
-[RoundofThree](https://roundofthree.github.io) is a Computer Science student who loves playing with new stuff.
+[RoundofThree](https://roundofthree.github.io) is a Computer Science student who is a salty tuna all the time. The **Projects** and **Tech stack** sections are outdated as well as many of my social account profiles.
 
 ---
 
@@ -42,8 +42,8 @@
 #### Things I like
 
 - Security research, pwn, reversing and forensics challenges
+- Compilers and optimizations
 - Systems programming, operating systems
-- Compilers
 - Mathematical optimization and algorithms
 - Competitive programming with C++
 - ACG yyds 🤟
