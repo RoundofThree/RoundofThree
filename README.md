@@ -23,7 +23,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoundofThree&layout=compact&hide=html,tcl&langs_count=10&count_private=true)
+![](https://readme-stats.clckblog.space/api/top-langs/?username=RoundofThree&layout=compact&hide=html,tcl&langs_count=10&count_private=true)
 
 <!-- ![](https://github-readme-stats-rho-mocha.vercel.app/api/wakatime?username=RoundofThree) --> 
 
