@@ -2,7 +2,7 @@
 
 [![Mail](https://img.shields.io/badge/-zhuoyingjiangli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhuoyingjiangli@gmail.com)](mailto:zhuoyingjiangli@gmail.com)
 
-[RoundofThree](https://roundofthree.github.io) is a Computer Science student who is a salty tuna all the time. The **Projects** and **Tech stack** sections are outdated as well as many of my social account profiles.
+[RoundofThree](https://roundofthree.github.io) is a Computer Science student who is a salty tuna most of the time.
 
 ---
 
@@ -27,7 +27,7 @@
 ![](https://github-readme-stats-rho-mocha.vercel.app/api/top-langs/?username=RoundofThree&layout=compact&hide=html,tcl,jupyter%20notebook&langs_count=10&count_private=true)
 <!-- ![](https://github-readme-stats-rho-mocha.vercel.app/api/wakatime?username=RoundofThree) --> 
 
-#### Projects
+<!-- #### Projects
 
 - Targeted and targeted backdoor poisoning attacks against Drebin under problem-space derived constraints: request for access
 - [Nyxeon](https://github.com/RoundofThree/nyxeon) (Golang Gin + Vue 3 first project) 
@@ -37,13 +37,13 @@
 - Bank scam bait web application (Ruby on Rails) 
 - [Watermark removal (python-scripts)](https://github.com/RoundofThree/python-scripts) (Python OpenCV)
 - [Automated baselining](https://github.com/RoundofThree/automated-baselining) (Batchfile)
-- AirBnB market listing desktop application (Java, first year coursework)
+- AirBnB market listing desktop application (Java, first year coursework) -->
 
 #### Things I like
 
 - Security research, pwn, reversing and forensics challenges
 - Compilers and optimizations
 - Systems programming, operating systems
-- Mathematical optimization and algorithms
-- Competitive programming with C++
+<!-- - Mathematical optimization and algorithms
+- Competitive programming with C++ -->
 - ACG yyds 🤟
