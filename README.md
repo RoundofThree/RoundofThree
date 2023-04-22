@@ -41,8 +41,8 @@
 
 #### Things I like
 
-- Security research, pwn, reversing and forensics challenges
-- Compilers and optimizations
+- Security research, pwn and reversing challenges
+- Compiler optimizations
 - Systems programming, operating systems
 <!-- - Mathematical optimization and algorithms
 - Competitive programming with C++ -->
