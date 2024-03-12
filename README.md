@@ -27,11 +27,12 @@
 ![](https://github-readme-stats-rho-mocha.vercel.app/api/top-langs/?username=RoundofThree&layout=compact&hide=html,tcl,jupyter%20notebook&langs_count=10&count_private=true)
 <!-- ![](https://github-readme-stats-rho-mocha.vercel.app/api/wakatime?username=RoundofThree) --> 
 
-
+<!--
 #### Things I like
 
 - Security research, pwn and reversing challenges
 - Systems programming, operating systems
+-->
 <!--
 - ACG yyds 🤟
 -->
