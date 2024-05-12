@@ -1,5 +1,3 @@
-## Introduction
-
 [RoundofThree](https://roundofthree.github.io) 是个稍微有点中二的名字。
 
 ---
